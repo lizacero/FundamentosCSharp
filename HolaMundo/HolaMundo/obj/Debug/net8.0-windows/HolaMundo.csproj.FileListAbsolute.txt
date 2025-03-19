@@ -1,0 +1,16 @@
+C:\2025\Casta\C#\HolaMundo\HolaMundo\bin\Debug\net8.0-windows\HolaMundo.exe
+C:\2025\Casta\C#\HolaMundo\HolaMundo\bin\Debug\net8.0-windows\HolaMundo.deps.json
+C:\2025\Casta\C#\HolaMundo\HolaMundo\bin\Debug\net8.0-windows\HolaMundo.runtimeconfig.json
+C:\2025\Casta\C#\HolaMundo\HolaMundo\bin\Debug\net8.0-windows\HolaMundo.dll
+C:\2025\Casta\C#\HolaMundo\HolaMundo\bin\Debug\net8.0-windows\HolaMundo.pdb
+C:\2025\Casta\C#\HolaMundo\HolaMundo\obj\Debug\net8.0-windows\HolaMundo.Form1.resources
+C:\2025\Casta\C#\HolaMundo\HolaMundo\obj\Debug\net8.0-windows\HolaMundo.csproj.GenerateResource.cache
+C:\2025\Casta\C#\HolaMundo\HolaMundo\obj\Debug\net8.0-windows\HolaMundo.GeneratedMSBuildEditorConfig.editorconfig
+C:\2025\Casta\C#\HolaMundo\HolaMundo\obj\Debug\net8.0-windows\HolaMundo.AssemblyInfoInputs.cache
+C:\2025\Casta\C#\HolaMundo\HolaMundo\obj\Debug\net8.0-windows\HolaMundo.AssemblyInfo.cs
+C:\2025\Casta\C#\HolaMundo\HolaMundo\obj\Debug\net8.0-windows\HolaMundo.csproj.CoreCompileInputs.cache
+C:\2025\Casta\C#\HolaMundo\HolaMundo\obj\Debug\net8.0-windows\HolaMundo.dll
+C:\2025\Casta\C#\HolaMundo\HolaMundo\obj\Debug\net8.0-windows\refint\HolaMundo.dll
+C:\2025\Casta\C#\HolaMundo\HolaMundo\obj\Debug\net8.0-windows\HolaMundo.pdb
+C:\2025\Casta\C#\HolaMundo\HolaMundo\obj\Debug\net8.0-windows\HolaMundo.genruntimeconfig.cache
+C:\2025\Casta\C#\HolaMundo\HolaMundo\obj\Debug\net8.0-windows\ref\HolaMundo.dll
