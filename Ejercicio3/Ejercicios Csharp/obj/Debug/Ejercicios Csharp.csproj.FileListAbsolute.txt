@@ -1,0 +1,40 @@
+C:\GitHub\FundamentosCSharp\Ejercicios Csharp\Ejercicios Csharp\bin\Debug\Ejercicios Csharp.exe.config
+C:\GitHub\FundamentosCSharp\Ejercicios Csharp\Ejercicios Csharp\bin\Debug\Ejercicios Csharp.exe
+C:\GitHub\FundamentosCSharp\Ejercicios Csharp\Ejercicios Csharp\bin\Debug\Ejercicios Csharp.pdb
+C:\GitHub\FundamentosCSharp\Ejercicios Csharp\Ejercicios Csharp\obj\Debug\Ejercicios Csharp.csproj.AssemblyReference.cache
+C:\GitHub\FundamentosCSharp\Ejercicios Csharp\Ejercicios Csharp\obj\Debug\Ejercicios_Csharp.Form1.resources
+C:\GitHub\FundamentosCSharp\Ejercicios Csharp\Ejercicios Csharp\obj\Debug\Ejercicios_Csharp.Properties.Resources.resources
+C:\GitHub\FundamentosCSharp\Ejercicios Csharp\Ejercicios Csharp\obj\Debug\Ejercicios Csharp.csproj.GenerateResource.cache
+C:\GitHub\FundamentosCSharp\Ejercicios Csharp\Ejercicios Csharp\obj\Debug\Ejercicios Csharp.csproj.CoreCompileInputs.cache
+C:\GitHub\FundamentosCSharp\Ejercicios Csharp\Ejercicios Csharp\obj\Debug\Ejercicios Csharp.exe
+C:\GitHub\FundamentosCSharp\Ejercicios Csharp\Ejercicios Csharp\obj\Debug\Ejercicios Csharp.pdb
+C:\GitHub\FundamentosCSharp\Ejercicio1\Ejercicios Csharp\bin\Debug\Ejercicios Csharp.exe.config
+C:\GitHub\FundamentosCSharp\Ejercicio1\Ejercicios Csharp\bin\Debug\Ejercicios Csharp.exe
+C:\GitHub\FundamentosCSharp\Ejercicio1\Ejercicios Csharp\bin\Debug\Ejercicios Csharp.pdb
+C:\GitHub\FundamentosCSharp\Ejercicio1\Ejercicios Csharp\obj\Debug\Ejercicios Csharp.csproj.AssemblyReference.cache
+C:\GitHub\FundamentosCSharp\Ejercicio1\Ejercicios Csharp\obj\Debug\Ejercicios_Csharp.Form1.resources
+C:\GitHub\FundamentosCSharp\Ejercicio1\Ejercicios Csharp\obj\Debug\Ejercicios_Csharp.Properties.Resources.resources
+C:\GitHub\FundamentosCSharp\Ejercicio1\Ejercicios Csharp\obj\Debug\Ejercicios Csharp.csproj.GenerateResource.cache
+C:\GitHub\FundamentosCSharp\Ejercicio1\Ejercicios Csharp\obj\Debug\Ejercicios Csharp.csproj.CoreCompileInputs.cache
+C:\GitHub\FundamentosCSharp\Ejercicio1\Ejercicios Csharp\obj\Debug\Ejercicios Csharp.exe
+C:\GitHub\FundamentosCSharp\Ejercicio1\Ejercicios Csharp\obj\Debug\Ejercicios Csharp.pdb
+C:\GitHub\FundamentosCSharp\Ejercicio2\Ejercicios Csharp\bin\Debug\Ejercicios Csharp.exe.config
+C:\GitHub\FundamentosCSharp\Ejercicio2\Ejercicios Csharp\bin\Debug\Ejercicios Csharp.exe
+C:\GitHub\FundamentosCSharp\Ejercicio2\Ejercicios Csharp\bin\Debug\Ejercicios Csharp.pdb
+C:\GitHub\FundamentosCSharp\Ejercicio2\Ejercicios Csharp\obj\Debug\Ejercicios Csharp.csproj.AssemblyReference.cache
+C:\GitHub\FundamentosCSharp\Ejercicio2\Ejercicios Csharp\obj\Debug\Ejercicios_Csharp.Form1.resources
+C:\GitHub\FundamentosCSharp\Ejercicio2\Ejercicios Csharp\obj\Debug\Ejercicios_Csharp.Properties.Resources.resources
+C:\GitHub\FundamentosCSharp\Ejercicio2\Ejercicios Csharp\obj\Debug\Ejercicios Csharp.csproj.GenerateResource.cache
+C:\GitHub\FundamentosCSharp\Ejercicio2\Ejercicios Csharp\obj\Debug\Ejercicios Csharp.csproj.CoreCompileInputs.cache
+C:\GitHub\FundamentosCSharp\Ejercicio2\Ejercicios Csharp\obj\Debug\Ejercicios Csharp.exe
+C:\GitHub\FundamentosCSharp\Ejercicio2\Ejercicios Csharp\obj\Debug\Ejercicios Csharp.pdb
+C:\GitHub\FundamentosCSharp\Ejercicio3\Ejercicios Csharp\bin\Debug\Ejercicios Csharp.exe.config
+C:\GitHub\FundamentosCSharp\Ejercicio3\Ejercicios Csharp\bin\Debug\Ejercicios Csharp.exe
+C:\GitHub\FundamentosCSharp\Ejercicio3\Ejercicios Csharp\bin\Debug\Ejercicios Csharp.pdb
+C:\GitHub\FundamentosCSharp\Ejercicio3\Ejercicios Csharp\obj\Debug\Ejercicios Csharp.csproj.AssemblyReference.cache
+C:\GitHub\FundamentosCSharp\Ejercicio3\Ejercicios Csharp\obj\Debug\Ejercicios_Csharp.Form1.resources
+C:\GitHub\FundamentosCSharp\Ejercicio3\Ejercicios Csharp\obj\Debug\Ejercicios_Csharp.Properties.Resources.resources
+C:\GitHub\FundamentosCSharp\Ejercicio3\Ejercicios Csharp\obj\Debug\Ejercicios Csharp.csproj.GenerateResource.cache
+C:\GitHub\FundamentosCSharp\Ejercicio3\Ejercicios Csharp\obj\Debug\Ejercicios Csharp.csproj.CoreCompileInputs.cache
+C:\GitHub\FundamentosCSharp\Ejercicio3\Ejercicios Csharp\obj\Debug\Ejercicios Csharp.exe
+C:\GitHub\FundamentosCSharp\Ejercicio3\Ejercicios Csharp\obj\Debug\Ejercicios Csharp.pdb
