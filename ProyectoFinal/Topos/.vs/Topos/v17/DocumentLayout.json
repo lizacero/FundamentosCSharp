@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\GitHub\\FundamentosCSharp\\ProyectoFinal\\Topos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{43E539D3-C655-4F99-A5C0-74E33A6BDD32}|Topos\\Topos.csproj|c:\\github\\fundamentoscsharp\\proyectofinal\\topos\\topos\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43E539D3-C655-4F99-A5C0-74E33A6BDD32}|Topos\\Topos.csproj|solutionrelative:topos\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43E539D3-C655-4F99-A5C0-74E33A6BDD32}|Topos\\Topos.csproj|c:\\github\\fundamentoscsharp\\proyectofinal\\topos\\topos\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{43E539D3-C655-4F99-A5C0-74E33A6BDD32}|Topos\\Topos.csproj|solutionrelative:topos\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\GitHub\\FundamentosCSharp\\ProyectoFinal\\Topos\\Topos\\Form1.cs",
+              "RelativeDocumentMoniker": "Topos\\Form1.cs",
+              "ToolTip": "C:\\GitHub\\FundamentosCSharp\\ProyectoFinal\\Topos\\Topos\\Form1.cs",
+              "RelativeToolTip": "Topos\\Form1.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBoAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T21:03:39.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\GitHub\\FundamentosCSharp\\ProyectoFinal\\Topos\\Topos\\Form1.cs",
+              "RelativeDocumentMoniker": "Topos\\Form1.cs",
+              "ToolTip": "C:\\GitHub\\FundamentosCSharp\\ProyectoFinal\\Topos\\Topos\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Topos\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T20:43:58.792Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
